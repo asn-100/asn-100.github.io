@@ -13,6 +13,6 @@ The prestige is a film based on the novel of same name by author Christopher Pri
 ## Alfred "The Professors" Motto
 Alfreds motto of life was to be carefully. Not to believe your eyes, you have to watch closely, think and critize happenings. In this way you can see the facts. 
 
-![](/images/theprestige.jpg)
+![alt text](/images/theprestige.jpg)
 [Created by Phillip Nguyen](https://www.flickr.com/photos/phillipnguyen/5505680300/)
 published under CC-License
